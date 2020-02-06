@@ -6,3 +6,5 @@ chapter 2: question about publishing versus pushing
 chapter 3: working with collaborators
 
 chapter 4: am I a detached head?
+
+chapter 5: or do I just have altitude sickness...
