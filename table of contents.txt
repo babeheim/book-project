@@ -1,4 +1,4 @@
 
 chapter 1: intro to git and github
 
-chapter 2: 
+chapter 2: question about publishing versus pushing
